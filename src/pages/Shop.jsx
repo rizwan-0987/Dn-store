@@ -1,6 +1,6 @@
 import Hero from '../components/Hero/Hero'
 import NewCollections from '../components/NewCollections/NewCollections'
-import Newsletter from '../components/Newsletter/Newsletter'
+import Newsletter from "../components/Newsletter/NewsLetter";
 import Offers from '../components/Offers/Offers'
 import Popular from '../components/popular/Popular'
 
